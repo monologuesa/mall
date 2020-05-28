@@ -1,0 +1,8 @@
+forging          忘记密码
+login             登录
+index             首页
+registered        注册
+category          全部
+user              我的
+address           新建地址
+management        管理员
